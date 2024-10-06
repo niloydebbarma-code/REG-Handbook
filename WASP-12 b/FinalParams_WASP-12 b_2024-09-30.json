@@ -1,0 +1,16 @@
+{
+    "FINAL PLANETARY PARAMETERS": {
+        "Mid-Transit Time (Tmid)": "2460584.9035 +/- 0.0021 BJD_TDB",
+        "Ratio of Planet to Stellar Radius (Rp/R*)": "0.145 +/- 0.011",
+        "Transit depth (Rp/Rs)^2": "2.11 +/- 0.33 [%]",
+        "Orbital Inclination (inc)": "84.1 +/- 2.61 ",
+        "Airmass coefficient 1 (a1)": "1.506 +/- 0.016",
+        "Airmass coefficient 2 (a2)": "-0.1763 +/- 0.0027",
+        "Scatter in the residuals of the lightcurve fit is": "0.98 %",
+        "Variable Reference Star": "AAVSO Label: 000-BKG-164, Position: [289, 205]",
+        "Best Comparison Star": "None",
+        "Optimal Aperture": "4.71",
+        "Optimal Annulus": "10.89",
+        "Transit Duration (day)": "0.1286 +/- 0.0048"
+    }
+}

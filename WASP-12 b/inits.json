@@ -1,0 +1,60 @@
+
+{
+  "planetary_parameters": {
+    "Target Star RA": "06:30:32.7948",
+    "Target Star Dec": "+29:40:20.15832",
+    "Planet Name": "WASP-12 b",
+    "Host Star Name": "WASP-12",
+    "Orbital Period (days)": 1.09141918,
+    "Orbital Period Uncertainty": 4e-08,
+    "Published Mid-Transit Time (BJD-UTC)": 2457036.706177,
+    "Mid-Transit Time Uncertainty": 5.5e-05,
+    "Ratio of Planet to Stellar Radius (Rp/Rs)": 0.130728726758888,
+    "Ratio of Planet to Stellar Radius (Rp/Rs) Uncertainty": 7.266956724455449e-07,
+    "Ratio of Distance to Stellar Radius (a/Rs)": 3.04,
+    "Ratio of Distance to Stellar Radius (a/Rs) Uncertainty": 0.03,
+    "Orbital Inclination (deg)": 83.4,
+    "Orbital Inclination (deg) Uncertainty": 0.648074069840786,
+    "Orbital Eccentricity (0 if null)": 0.0,
+    "Argument of Periastron (deg)": 272.7,
+    "Star Effective Temperature (K)": 6300.0,
+    "Star Effective Temperature (+) Uncertainty": 200.0,
+    "Star Effective Temperature (-) Uncertainty": -140.0,
+    "Star Metallicity ([FE/H])": 0.3,
+    "Star Metallicity (+) Uncertainty": 0.05,
+    "Star Metallicity (-) Uncertainty": -0.15,
+    "Star Surface Gravity (log(g))": 4.17,
+    "Star Surface Gravity (+) Uncertainty": 0.03,
+    "Star Surface Gravity (-) Uncertainty": -0.03
+},
+    "user_info": {
+            "Directory with FITS files": "/content/drive/MyDrive/WASP-12 b",
+            "Directory to Save Plots": "/content/drive/MyDrive/WASP-12 b_output/",
+            "Directory of Flats": null,
+            "Directory of Darks": "/content/drive/MyDrive/WASP-12 b/Darks",
+            "Directory of Biases": null,
+
+            "AAVSO Observer Code (N/A if none)": "BNIE",
+            "Secondary Observer Codes (N/A if none)": "MOBS",
+
+            "Observation date": "2024-09-30",
+            "Obs. Latitude": "+37.04",
+            "Obs. Longitude": "-110.73",
+            "Obs. Elevation (meters)": 2606,
+            "Camera Type (CCD or DSLR)": "CCD",
+            "Pixel Binning": "1x1",
+            "Filter Name (aavso.org/filters)": "V",
+            "Observing Notes": "First image seeing 100 (0: poor, 100: excellent), Teltemp - Camtemp 20.0.  These observations were conducted with MicroObservatory, a robotic telescope network managed by the Harvard-Smithsonian Center for Astrophysics on behalf of NASA's Universe of Learning. This work is supported by NASA under award number NNX16AC65A to the Space Telescope Science Institute.",
+
+            "Plate Solution? (y/n)": "y",
+            "Align Images? (y/n)": "y",
+
+            "Target Star X & Y Pixel": [299,201],
+            "Comparison Star(s) X & Y Pixel": [[244,183],[303,176]]
+    },    
+    "optional_info": {
+            "Pixel Scale (Ex: 5.21 arcsecs/pixel)": null,
+            "Filter Minimum Wavelength (nm)": null,
+            "Filter Maximum Wavelength (nm)": null
+    }
+}
